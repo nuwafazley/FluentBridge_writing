@@ -31,6 +31,6 @@ def grammar():
                                corrected_file_grammar=corrected_file_grammar)
 
 
-# python main
+# python main nuwaf
 if __name__ == "__main__":
     app.run(debug=True)
