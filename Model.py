@@ -41,7 +41,7 @@ class SpellCheckerModule:
 
 if __name__ == '__main__':
     obj = SpellCheckerModule()
-    message = "Python librery for an prosessing textual data"
+    message = "Hi my namee is John and I am a computerr sciance studant"
     print(obj.correct_spell(message))
     print(obj.correct_grammar(message))
 
